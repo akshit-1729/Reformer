@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675388048435",
+    "project_id": "reformer-g",
+    "storage_bucket": "reformer-g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675388048435:android:21e96216871570a01a4f46",
+        "android_client_info": {
+          "package_name": "com.example.reformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675388048435-h1ocs744a21ntlp9qno7aq49a2merenb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePf9qcnHf31d1ElM_N0_GQby2KfQrzxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675388048435-h1ocs744a21ntlp9qno7aq49a2merenb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
