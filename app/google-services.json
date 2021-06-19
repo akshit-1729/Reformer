@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "675388048435-odebt65be47rqr2rsrdpg9gugreqpccg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reformer",
+            "certificate_hash": "e9d057673536dcc6c0266c6e3ee9c6c94ad1b5a9"
+          }
+        },
+        {
           "client_id": "675388048435-h1ocs744a21ntlp9qno7aq49a2merenb.apps.googleusercontent.com",
           "client_type": 3
         }
